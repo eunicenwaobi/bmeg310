@@ -106,6 +106,8 @@ Also, in canvas under page "Tutorial 6 - Solution", you will be able to watch th
 
 * It is required to submit both .Rmd and HTML version of deliverable file 
 
+*Solution: [https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Tutorial%207/Solution.html]
+
 ## Assignment 1: R/Machine Learning 
 You can find assignment 1 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/assignment%201/assignment%201.md)
 
