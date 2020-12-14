@@ -11,7 +11,7 @@ Nov 13  (Ali Bashashati): There has been some really good questions about teh pr
 
 Nov 26 (Ali Bashashati): Extended the deadline for project presentation to Dec 15th. Peer grading of submitted presentations will be due on Dec 18th. Project presentation should be less than 8min. 
 
-Dec 14 (Ali Bashashati): Updated project submission instructions. Specifically, how to submit the links to the github repo and group presentations.
+Dec 14 (Ali Bashashati): Updated project submission instructions. Specifically, how to submit the links to the github repo and group presentations. Look for **HOW TO SUBMIT PROJECT**
 
 ## General:
 
@@ -126,7 +126,7 @@ As teams explore the data, they will need to look for trends related to the acti
     * The report should not be longer than 8 pages in 11 point font Times New Roman (single space, 0.75" margin on all sides), including tables, figures, and references.
     * Cite references where relevant. Use IEEE style and include a bibliography at the end of the report. Often a reference or two can help explain the disease or give credence to a trend you see in the data.
     * Marks will be awarded for formatting and organization of the report (10%), clarity of introduction (20%), thoroughness of methods (10%), quality and relevance of tables and figures (20%), clarity of written summary of results (10%), and clarity and completeness of discussion of results (30%). 
-    * ***HOW TO SUBMIT PROJECT:*** Please enter the link to your project github repo and your group presentation here: https://docs.google.com/spreadsheets/d/1dvIyYv8hpiNfveQm_6OqW60N77yi55KOMDLGeZxScS0/edit?usp=sharing 
+    * **HOW TO SUBMIT PROJECT:** Please enter the link to your project github repo and your group presentation here: https://docs.google.com/spreadsheets/d/1dvIyYv8hpiNfveQm_6OqW60N77yi55KOMDLGeZxScS0/edit?usp=sharing 
     It is important to note that the project repo should be **private** and the presentation videos should be only available through the provided link (i.e., they should not be shared with public). In Youtube, this can be done by making your video **Unlisted**: please see the following link.  
   
 3. **Peer Feedback Survey**
