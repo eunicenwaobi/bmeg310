@@ -11,6 +11,8 @@ Nov 13  (Ali Bashashati): There has been some really good questions about teh pr
 
 Nov 26 (Ali Bashashati): Extended the deadline for project presentation to Dec 15th. Peer grading of submitted presentations will be due on Dec 18th. Project presentation should be less than 8min. 
 
+Dec 14 (Ali Bashashati): Updated project submission instructions. Specifically, how to submit the the links to the github repo and presentation.
+
 ## General:
 
 The BMEG 310 Course Project is worth 50% of the total grade. The purpose of the project is to give students the opportunity to apply their understanding of course fundamentals to real data. Students will be organised into teams and given a TCGA cancer dataset to analyze, with the goal that they will capture biologically relevant trends characteristic of the cancer in question. The project will consist of a design period, where the details of the analysis and research question will be proposed by teams, and an analysis period, where students will have dedicated time to collaborate and produce results. The last 2 weeks of class will have no tutorials/assignments to give students time to do this, and Instructors/TAs will be available to give students feedback on their work and help them refine their analyses.
@@ -124,13 +126,14 @@ As teams explore the data, they will need to look for trends related to the acti
     * The report should not be longer than 8 pages in 11 point font Times New Roman (single space, 0.75" margin on all sides), including tables, figures, and references.
     * Cite references where relevant. Use IEEE style and include a bibliography at the end of the report. Often a reference or two can help explain the disease or give credence to a trend you see in the data.
     * Marks will be awarded for formatting and organization of the report (10%), clarity of introduction (20%), thoroughness of methods (10%), quality and relevance of tables and figures (20%), clarity of written summary of results (10%), and clarity and completeness of discussion of results (30%). 
-
+    **HOW TO SUBMIT PROJECT:** Please enter the link to your project github repo and your group presentation here: https://docs.google.com/spreadsheets/d/1dvIyYv8hpiNfveQm_6OqW60N77yi55KOMDLGeZxScS0/edit?usp=sharing  
+  
 3. **Peer Feedback Survey**
     * At the end of project submission, students will be required to submit a confidential peer feedback survey, requiring them to rate teammates based on indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others. This will count towards the collaboration portion of the course grade, worth 5%.
     * The collaboration portion of the project will be assessed based on individual contribution to project as evaluated from the progress report, final report, and peer feedback survey, and students who contribute meaningfully to the project and make a strong effort to collaborate and communicate with teammates will receive full marks.
     * **NOTE:** Although the peer feedback section is worth 5%, the teaching team reserves the right to deduct individual project grades beyond this amount if they identify a situation where specific group members have made no significant contribution to the project or deliverables.
 
 **Part 5:** Peer grading of submitted presentations (due Dec 18)
-* We will assign each team 5 projects and they will need to watch the submitted videos and mark them according to the criteria for oral presentations. 
+* We will assign each team 4 projects and they will need to watch the submitted videos and mark them according to the criteria for oral presentations. 
 * In addition to the peer evaluation, at least two of the teaching team (instructors & TAs) will grade the project. 
 * Final grade for the presentation will be the aggregate of the peer evaluation (30%) and teaching team (70%). 
