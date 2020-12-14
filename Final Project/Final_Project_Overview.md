@@ -126,7 +126,7 @@ As teams explore the data, they will need to look for trends related to the acti
     * The report should not be longer than 8 pages in 11 point font Times New Roman (single space, 0.75" margin on all sides), including tables, figures, and references.
     * Cite references where relevant. Use IEEE style and include a bibliography at the end of the report. Often a reference or two can help explain the disease or give credence to a trend you see in the data.
     * Marks will be awarded for formatting and organization of the report (10%), clarity of introduction (20%), thoroughness of methods (10%), quality and relevance of tables and figures (20%), clarity of written summary of results (10%), and clarity and completeness of discussion of results (30%). 
-    **HOW TO SUBMIT PROJECT:** Please enter the link to your project github repo and your group presentation here: https://docs.google.com/spreadsheets/d/1dvIyYv8hpiNfveQm_6OqW60N77yi55KOMDLGeZxScS0/edit?usp=sharing  
+    * **HOW TO SUBMIT PROJECT:** Please enter the link to your project github repo and your group presentation here: https://docs.google.com/spreadsheets/d/1dvIyYv8hpiNfveQm_6OqW60N77yi55KOMDLGeZxScS0/edit?usp=sharing  
   
 3. **Peer Feedback Survey**
     * At the end of project submission, students will be required to submit a confidential peer feedback survey, requiring them to rate teammates based on indices such as work contributed to the project, effort to collaborate with teammates, and reliability of communication with others. This will count towards the collaboration portion of the course grade, worth 5%.
