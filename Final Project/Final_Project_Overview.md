@@ -106,7 +106,7 @@ As teams explore the data, they will need to look for trends related to the acti
 * Presentation time should be divided approximately equally among team members so that everyone gets to contribute
 * Marks will be awarded for organization of presentation (20%), clarity of visual aspect of presentation (20%), clarity and completeness of project goals, methods, and results (ie. the goal and methods are logical and the results are well explained in the context of the research question) (40%), and 20% for clarity of speaker's explanations and discussion (awarded per individual speaker).
 * Marks will not be deducted for inconclusive results. However, it is expected that some result (promising or not) will be obtained, and the presentation should try to explain the context of these results and speak to their origin.
-* Your presentations will be peer reviewed by 5 other teams, and your final mark for the presentation will be the aggregate of the peer evaluation (30%) and the teaching team (70%)
+* Your presentations will be peer reviewed by 4 other teams, and your final mark for the presentation will be the aggregate of the peer evaluation (30%) and the teaching team (70%)
 
 **Part 4:** 
 1. **Github Repo**
