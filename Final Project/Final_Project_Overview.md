@@ -13,7 +13,7 @@ Nov 26 (Ali Bashashati): Extended the deadline for project presentation to Dec 1
 
 Dec 14 (Ali Bashashati): Updated project submission instructions. Specifically, how to submit the links to the github repo and group presentations. Look for **HOW TO SUBMIT PROJECT**
 
-Dec 14 (Ali Bashashati): Updated project report specifics. To further support your findings, you can now inlcude up to TWO pages of supplemental figures and table (beyond the 8-page limit).
+Dec 14 (Ali Bashashati): Updated project report specifics. To further support your findings, you can now include up to TWO pages of supplemental figures and table (beyond the 8-page limit).
 
 ## General:
 
