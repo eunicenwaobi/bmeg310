@@ -123,3 +123,5 @@ Solution and marking rubric here: [link](https://github.com/bmeg310ubc/bmeg310/b
 ## Assignment 3: Differential expression and RNA-seq
 You can find assignment 3 here: [link](https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment_3/Assignment_3.Rmd)
 Please clone this file (or copy the contents) and edit it to complete your assignment.
+
+Solution here: [link](https://htmlpreview.github.io/?https://github.com/bmeg310ubc/bmeg310/blob/master/Assignment_3/Assignment_3_answers.html)
